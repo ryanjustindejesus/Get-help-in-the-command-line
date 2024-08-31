@@ -1,8 +1,8 @@
 <h1>Getting help in the command line </h1>
 
-
-
-<h2>In this lab, I used the man, whatis, and apropos commands to practice finding answers to Linux questions in the command line.</h2>
+<h2>Description</h2>
+In this lab, I used the man, whatis, and apropos commands to practice finding answers to Linux questions in the command line.
+<br />
 
 <h2>Practical experience gained in this Lab</h2>
 

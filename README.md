@@ -4,9 +4,6 @@
 
 <h2>In this lab, I used the man, whatis, and apropos commands to practice finding answers to Linux questions in the command line.</h2>
 
-<br />
-
-
 <h2>Practical experience gained in this Lab</h2>
 
 - <b>Getting a short description of a command</b> 

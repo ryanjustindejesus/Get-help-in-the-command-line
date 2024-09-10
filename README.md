@@ -18,26 +18,26 @@ In this lab, I used the man, whatis, and apropos commands to practice finding an
 <h2>Lab walk-through:</h2>
 
 <h2>Task 1: Learn more about commands </h2>
-In this task, I need to explore a few commands I can use in the shell to learn more about the functionality of other commands.
+In this task, I explored a few commands I can use in the shell to learn more about the functionality of other commands.
  <br/> <br />
-(1) I used the command "whatis cat" to get a short description of the cat command. <br/>
-(2) I used the command "man cat" to get more details about the cat command.
+(1) First, I used the command "whatis cat" to get a short description of the cat command. <br/>
+(2) Then, I used the command "man cat" to get more details about the cat command.
 <br/> <br/> <p align="center">
 <img src="https://imgur.com/EbQks1M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br /> <br />
 
 <h2>Task 2: Explore the useradd command </h2>
-In this task, I need to set the expiration date for a temporary user account. I know that I need to use the useradd command for this, but I'm not quite sure how to complete the task.
+In this task, I set the expiration date for a temporary user account. I know that I need to use the useradd command for this, but I'm not quite sure how to complete the task.
 <br/> <br />
-(3) I used the comman "man useradd" to get more details about the useradd command.
+(1) I used the comman "man useradd" to get more details about the useradd command.
 <br /> <br /> <p align="center">
 <img src="https://imgur.com/3SsEttY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br /> <br />
 
 <h2>Task 3: Explore the rm and rmdir commands </h2>
-In this task, I need to determine the difference between the rm and rmdir commands.
+In this task, I determined the difference between the rm and rmdir commands.
  <br/> <br/>
-(4) I used the command "whatis rm" and "whatis rmdir" to get a short description of the rm and rmdir commands. 
+(1) I used the command "whatis rm" and "whatis rmdir" to get a short description of the rm and rmdir commands. 
 <br/> <br/> <p align="center">
 <img src="https://imgur.com/8HDfjcH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br /> <br />
@@ -45,7 +45,7 @@ In this task, I need to determine the difference between the rm and rmdir co
 <h2>Task 4: Determine which command to use </h2>
 In this task, I need to create a new group but I can’t remember what command to use. I need to identify a command that will do this by searching for it through keywords.
  <br/> <br/> 
-(5) I used the command "apropos -a create new group" to determine the most appropriate Linux commands to use 
+(1) I used the command "apropos -a create new group" to determine the most appropriate Linux commands to use 
 <br/> <br/>  <p align="center">
 <img src="https://imgur.com/ASAve5x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br /> <br />

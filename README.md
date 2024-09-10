@@ -20,7 +20,7 @@ In this lab, I used the man, whatis, and apropos commands to practice finding an
 <h2>Task 1: Learn more about commands </h2>
 In this task, I explored a few commands I can use in the shell to learn more about the functionality of other commands.
  <br/> <br />
-(1) First, I used the command "whatis cat" to get a short description of the cat command. <br/>
+(1) First, I used the command "whatis cat" to get a short description of the cat command. <br/> <br />
 (2) Then, I used the command "man cat" to get more details about the cat command.
 <br/> <br/> <p align="center">
 <img src="https://imgur.com/EbQks1M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
